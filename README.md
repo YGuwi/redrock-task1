@@ -12,3 +12,4 @@
 ```bash
 uv sync                                              # 按 uv.lock 安装依赖
 uv run python fetch_many.py --timeout 30             # 请求内置 3 个示例接口
+作者：董允城
